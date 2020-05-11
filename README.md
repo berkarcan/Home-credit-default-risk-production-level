@@ -1,1 +1,1 @@
-## Default risk prediction f the Home credit's customers using LGBM model
+## Default risk prediction of the Home credit's customers using LGBM model
